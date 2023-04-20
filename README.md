@@ -1,4 +1,4 @@
-# Sample Website
+# About me
 
 This is a website about me. For the moment 
 I am adding my CV and and a link to my Linked in page.
